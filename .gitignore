@@ -1,0 +1,29 @@
+# Ignore virtual environment
+venv/
+
+# Ignore weight files (large files)
+*.weights
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore compiled files
+*.so
+*.out
+
+# Ignore Python virtual environment folder for other names
+env/
+.Python
