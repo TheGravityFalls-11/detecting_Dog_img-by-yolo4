@@ -55,7 +55,7 @@ python detect.py
 > You will see an output window showing detection results.  
 > Below is a sample screenshot:
 
-![Detection Screenshot](screenshots/output.png)
+![Image](https://github.com/user-attachments/assets/598bc9f5-db5b-4498-ab01-859efdf88536)
 
 > **Note**: Add your own screenshot by creating a folder `screenshots/` and saving the detection result as `output.png`.
 
